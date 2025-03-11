@@ -1,17 +1,52 @@
-# chatapp
 
-A new Flutter project.
+# Flutter Chat App
 
-## Getting Started
+A real-time chat application built using Flutter
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+-   **Real-time Messaging:** Send and receive messages instantly.
+-   **Cloud Firestore:** Store chat messages securely.
+-   **User Profiles:** Display user names and profile pictures.
+-   **Responsive UI:** Works on Android, iOS, and Web.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# chatapp-flutter-source
+### Prerequisites
+
+-   Flutter installed ([Download Flutter](https://flutter.dev/docs/get-started/install))
+-   A code editor (VSCode or Android Studio recommended)
+
+### Setup
+
+1.  Clone the repository:
+    
+    ```sh
+    git clone https://github.com/Satyam1Vishwakarma/flutter-chatapp.git
+    cd flutter-chatapp
+    
+    ```
+    
+2.  Install dependencies:
+    
+    ```sh
+    flutter pub get
+    
+    ```
+    
+4.  Run the app:
+    
+    ```sh
+    flutter run
+    
+    ```
+    
+
+## Technologies Used
+
+-   Flutter
+-   Dart
+
+## Contributing
+
+Contributions are welcome! Please create a pull request with your changes.
